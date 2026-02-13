@@ -4,7 +4,7 @@ WantedBy=multi-user.target
 [Mount]
 Options=defaults
 Type=ext4
-What=/dev/disk/by-uuid/c729f1ed-9d91-4ab6-b912-c0c9b3f6c912
+What=/dev/disk/by-uuid/b234452a-e25f-4f87-a94a-8267c099fda1
 Where=/mnt/pve/Daten
 
 [Unit]
